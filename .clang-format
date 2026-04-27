@@ -1,0 +1,14 @@
+---
+IndentWidth: 4
+InsertBraces: true
+SpaceAfterTemplateKeyword: false
+AllowShortNamespacesOnASingleLine: true
+NamespaceIndentation: All
+AccessModifierOffset: -4
+AllowShortFunctionsOnASingleLine: Inline
+SpaceBeforeCpp11BracedList: true
+AlignAfterOpenBracket: BlockIndent
+IndentWrappedFunctionNames: true
+Cpp11BracedListStyle: true
+ColumnLimit: 120
+ReflowComments: Always
